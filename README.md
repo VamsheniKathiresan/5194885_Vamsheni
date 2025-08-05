@@ -4,3 +4,5 @@
 ![CommandHistory_1](LINUX/history_1.png)
 ![CommandHistory_2](LINUX/history_2.png)
 ![CommandHistory_2](LINUX/history_3.png)
+![C_Beginner_Certificate](C/5194885_C_Beginner.jpg)
+![C_Intermediate_Certificate](C/5194885_C_Intermediate.jpg)
